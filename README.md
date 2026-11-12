@@ -4,12 +4,7 @@
   **An End-to-End Data Analytics Project Using Python, SQL & Machine Learning**
 </p>
 
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.10-blue)
-  ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
-  ![SQL](https://img.shields.io/badge/SQL-SQLite-orange)
-  ![Status](https://img.shields.io/badge/Project-In%20Progress-yellow)
-</p>
+
 
 ---
 
