@@ -22,9 +22,7 @@ status.
 ![Olist E-Commerce Intelligence Dashboard ---
 Overview](images/overview.png)
 
-> The screenshot above is the actual Overview screenshot supplied for
-> this README. Add the remaining four page screenshots to the `images/`
-> folder as they become available.
+
 
 ------------------------------------------------------------------------
 
