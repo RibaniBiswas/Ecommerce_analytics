@@ -34,4 +34,28 @@ class DataLoader:
             print(f"{name} loaded successfully!")
 
         return self.datasets
+    
+    def inspect_data(self):
+
+        for name, df in self.datasets.items():
+
+            print("\n" + "=" * 50)
+            print(f"DATASET: {name.upper()}")
+            print("=" * 50)
+
+            # Display shape
+            print("\nRows and Columns:", df.shape)
+
+            # Display column names
+            print("\nColumn Names:")
+            print(df.columns.tolist())
+
+            # Display data types
+            print("\nData Types:")
+            print(df.dtypes)
+
+            # Display missing values
+            print("\nMissing Values:")
+            print(df.isnull().sum())
+
 

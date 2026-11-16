@@ -14,3 +14,10 @@ data/raw/
 
 # Environment variables
 .env
+
+# Dashboard backup files
+dashboard/app_before_*.py
+dashboard/app_old.py
+dashboard/app_previous.py
+
+data/customer_segments.csv
